@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <h1> Welcome to the block game. </h1> </br>
+    <h1> Welcome to the block game. </h1> </br> </br>
     <h3> Left click to jump over the block. </h3>
     <div id="game">
       <div id="character"></div>
